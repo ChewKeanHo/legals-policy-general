@@ -1,9 +1,9 @@
-# (Holloway) Chew, Kean Ho's General Terms & Conditions Policy
+# (Holloway) Chew, Kean Ho's General Business Policy
 
-A published general terms and condition business policy for interacting with
-one or more [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) products
-and services. This policy set the foundation of a proper busienss conduct so
-that we can provide a smooth and enjoyable business experiences.
+A published terms and conditions for general business conducts with
+[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) in open-source,
+personal, and commercial environment. This policy establishes the foundation
+of trades for a smooth and enjoyable business experiences.
 
 
 
