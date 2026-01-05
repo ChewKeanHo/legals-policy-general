@@ -1,48 +1,96 @@
 cff-version: "1.2.0"
-type: "software"
-date-released: "2024-10-15"
-title: "(Holloway) Chew, Kean Ho's General Terms & Conditions Policy"
+type: "dataset"
+date-released: "2024-09-24"
+title: "(Holloway) Chew, Kean Ho's General (Terms of Service) Policy"
 version: "2.0.0"
 license: "CC-BY-ND-4.0"
-repository: "https://github.com/ChewKeanHo/license-cos"
-repository-code: "https://github.com/ChewKeanHo/license-cos"
-repository-artifact: "https://github.com/ChewKeanHo/license-cos/releases"
-url: "https://doi.org/10.5281/zenodo.13788522"
+repository: "https://github.com/ChewKeanHo/legals-policy-general"
+repository-code: "https://github.com/ChewKeanHo/legals-policy-general"
+repository-artifact: "https://github.com/ChewKeanHo/legals-policy-general"
+url: "https://doi.org/10.5281/zenodo.13859294"
 contact:
   - affiliation: "(Holloway) Chew, Kean Ho"
-    email: "hello@hollowaykeanho.com"
-    website: "https://www.hollowaykeanho.com"
+    email: "hello@chewkeanho.com"
+    website: "https://www.chewkeanho.com"
 abstract: |-
-  A published terms and conditions for general business conducts with
-  "(Holloway) Chew, Kean Ho" (https://github.com/ChewKeanHo) in open-source,
-  personal, and commercial environment. This policy establishes the foundation
-  of trades for a smooth and enjoyable business experiences.
+  > [!CAUTION]
+  >
+  > This agreement was **DRAFTED BY A SOFTWARE DEVELOPER** based on his past
+  > experiences with productization, legal documents processing, and legal
+  > knowledge.
+  >
+  > Please **NEVER ASSUME. CONSULT AN ATTORNEY/LAWYER FOR FEASTABILITY**
+  > catering your exact needs.
 
-  This repository is version controlled using "semantic versioning"
-  (https://semver.org/) definitions where:
+  A continuously updated terms of service for `(Holloway) Chew, Kean Ho`'s
+  general terms of service policy for:
 
-    1. the "MAJOR" version denotes major legal changes; AND
-    2. the "MINOR" version denotes minor changes without altering the legal
-       implication side of things such as but not limited to grammar correction,
-       fonts, typo, and etc; AND
-    3. the "PATCH" version denotes the repository management changes such as but
-       not limited to new language addition, updating "README.md", and etc.
+  * **Commercial Services** - *focusing on business commericalization activities* |
+    [GitHub](https://github.com/ChewKeanHo) |
+    [YouTube - (Holloway) Chew, Kean Ho's Soundtracks](https://www.youtube.com/@chewkeanho-soundtracks) |
+    [YouTube - (Holloway) Chew, Kean Ho](https://www.youtube.com/@chewkeanho) |
+    [Codeberg.org](https://codeberg.org/chewkeanho) |
+    [Zenodo.org](https://zenodo.org/communities/chewkeanho/records?q=&l=list&p=1&s=100&sort=newest)
+  * **Personal Services** - *focusing on non-business activities* |
+    [GitHub](https://github.com/hollowaykeanho) |
+    [Codeberg.org](https://codeberg.org/hollowaykeanho) |
+    [Zenodo.org](https://zenodo.org/communities/chewkeanho/records?q=&l=list&p=1&s=100&sort=newest)
+
+  The purpose is to establish a foundation of common understanding facilitating
+  business trades.
+
+  To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/), you
+  **MUST READ THE POLICY FILE DIRECTLY**. It must be easily readable for any
+  general public audience without assistance.
+
+  If you cannot parse or could not understand any part of the termsheet, that
+  means it has not fully achieve the guideline yet. In that case, please file a
+  [query issue](https://github.com/ChewKeanHo/legals-policy-general/issues).
+
+  This legal document is version controlled using
+  [semantic versioning](https://semver.org/) defined as follows:
+
+  1. **MAJOR number** - denotes major non-backward compatible changes; AND
+  2. **MINOR number** - denotes major backward compatible changes including
+     without limited to grammar corrections, fonts, typo, and etc; AND
+  3. **PATCH number** - denotes minor backward comaptible changes including
+     without limited to updating repository `README.md`, changes of publication
+     system, and etc.
+
+  This document is designed to **ALWAYS USE THE LATEST AND GREATEST**.
+
+  This document is written for comply with:
+
+  1. **[US Plain Language Goverment Guideline](https://plainlanguage.gov/guidelines/)** -
+     making legal friendly to any general public without assistances.
+
+  Currently, this document is written for the following languages:
+
+  1. International English (`en`)
+
+  These are the official stewards:
+
+  1. **[(Holloway) Chew, Kean Ho](https://chewkeanho.com)** - principal author
+     and reviewer.
 message: |-
   Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "hello@chewkeanho.com"
+    affiliation: "Independent"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.13859294"
     description: "General & Latest"
-authors:
-  - given-names: "Kean Ho"
-    family-names: "Chew"
-    email: "hello@hollowaykeanho.com"
-    affiliation: "Independent"
-    orcid: "https://orcid.org/0000-0003-4202-4863"
 keywords:
-  - "Legal"
-  - "General Business Policy"
-  - "General Policy"
-  - "Business"
-  - "General Terms & Conditions"
-  - "Terms & Conditions"
+  - "product"
+  - "general policy"
+  - "terms of service"
+  - "general terms of service"
+  - "legal"
+  - "continuous improved researches"
+  - "self-improve independences"
+  - "independent research"
+  - "researches"
